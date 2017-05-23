@@ -22,3 +22,4 @@ function packageInstall()
 
 packageInstall code package/code_*_amd64.deb
 packageInstall atom package/atom-amd64.deb
+packageInstall google-chrome-stable package/google-chrome-stable_*_amd64.deb 
