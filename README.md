@@ -5,3 +5,8 @@
 
 cd ubuntu-install
 ./install.sh
+
+
+
+package & codes   
+download from https://pan.baidu.com/s/1dEE2LqT
