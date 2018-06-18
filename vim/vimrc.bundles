@@ -1,0 +1,16 @@
+filetype off
+set rtp+=~/.vim/bundle/vundle/
+call vundle#rc()
+
+
+Bundle 'Valloric/YouCompleteMe'
+Bundle "scrooloose/nerdtree"
+Bundle 'Lokaltog/vim-powerline'
+Bundle 'majutsushi/tagbar'
+Bundle 'ctrlpvim/ctrlp.vim'
+Bundle 'danro/rename.vim'
+Bundle 'vim-scripts/tComment'
+Bundle 'vim-scripts/a.vim'
+Bundle 'chazy/cscope_maps'
+Bundle 'tomasr/molokai'
+Bundle 'altercation/solarized'
